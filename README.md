@@ -13,6 +13,9 @@ All the materials are collected from the internet and contributed by netizens, w
 
 所有素材均来自网络收集以及网友投稿，由 old-ideas-store 整理发布。不对其真实性负责，若存在版权问题，请联系作者删除或添加来源声明。
 
+# 最近在搞 AI 相关的产品，AI 时代下有没有什么机会，大家来探讨一下。
+https://github.com/CrossLee/Old-ideas-store/issues/1
+
 # Ideas list
 - [月入 2 W 的支付副业实践，产品迭代带来的 10 倍增长](https://github.com/CrossLee/Old-ideas-store/wiki/%E6%9C%88%E5%85%A5-2-W-%E7%9A%84%E6%94%AF%E4%BB%98%E5%89%AF%E4%B8%9A%E5%AE%9E%E8%B7%B5%EF%BC%8C%E4%BA%A7%E5%93%81%E8%BF%AD%E4%BB%A3%E5%B8%A6%E6%9D%A5%E7%9A%84-10-%E5%80%8D%E5%A2%9E%E9%95%BF)
 - [偷懒的视频搬运](https://github.com/CrossLee/Old-ideas-store/wiki/%E5%81%B7%E6%87%92%E7%9A%84%E8%A7%86%E9%A2%91%E6%90%AC%E8%BF%90)
