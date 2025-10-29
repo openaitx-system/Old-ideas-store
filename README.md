@@ -14,6 +14,7 @@ All the materials are collected from the internet and contributed by netizens, w
 所有素材均来自网络收集以及网友投稿，由 old-ideas-store 整理发布。不对其真实性负责，若存在版权问题，请联系作者删除或添加来源声明。
 
 # 最近在搞 AI 相关的产品，AI 时代下有没有什么机会，大家来探讨一下。
+
 https://github.com/CrossLee/Old-ideas-store/issues/1
 
 # Ideas list
